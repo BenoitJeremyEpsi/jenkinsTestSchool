@@ -14,6 +14,7 @@ public class CalculatriceJenkins {
     /**
      * @param args the command line arguments
      */
+    int test;
     public static void main(String[] args) {
         // TODO code application logic here
     }
